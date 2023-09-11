@@ -417,7 +417,7 @@ margin-bottom: 72px;
   width: calc((100% - 48px) / 3);
 
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  
+
   /* transition-property: background-color;
   transition-duration: 250ms;
   transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);
@@ -528,5 +528,6 @@ margin-bottom: 8px;
 
 .footer-social .social-link-icon:hover,
 .footer-social .social-link-icon:focus {
-  background-color: var(--green);
+  /* background-color: var(--green); */
+  background-color: #31d0aa;
 }
