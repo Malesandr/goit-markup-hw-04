@@ -528,6 +528,6 @@ margin-bottom: 8px;
 
 .footer-social .social-link-icon:hover,
 .footer-social .social-link-icon:focus {
-  /* background-color: var(--green); */
-  background-color: #31d0aa;
+  background-color: var(--green);
+  /* background-color: #31d0aa; */
 }
